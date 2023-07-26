@@ -1,6 +1,8 @@
 # excel-challenge
 
-William Vann
+## William Vann
+
+## Demonstration of advanced Excel usage.
 
 ## FILES: ##
 `HW1_WILLIAM_VANN_NARRATIVE.docx`
